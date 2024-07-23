@@ -1,13 +1,13 @@
 # Kohya's GUI
 修改自sd-scripts，修复了部分finetune时的bug.
-功能上的改动：
-1.caption的分隔符改为“,”与"."，原脚本只支持单个分隔符。
-2.sampler方法新增dpm_sde_k
-3.适应新的meta_lat图片读取
-4.avg_loss新增
+
+- caption的分隔符改为“,”与"."，原脚本只支持单个分隔符
+- sampler方法新增dpm_sde_k
+- 适应新的meta_lat图片读取
+- avg_loss新增
 
 to-do list:
-1.loss异常点记录
+- loss异常点记录
 
 ## Table of Contents
 
