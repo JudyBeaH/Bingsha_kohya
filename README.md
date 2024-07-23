@@ -1,5 +1,5 @@
 # Kohya's GUI
-修改自sd-scripts，修复了部分finetune时的bug.
+修改自sd-scripts，修复了部分finetune时的bug.其余功能改动如下
 
 - caption的分隔符改为“,”与"."，原脚本只支持单个分隔符
 - sampler方法新增dpm_sde_k
